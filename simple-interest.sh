@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # Michele Pellegrino
+   # Michele Pellegrino (BlondLion)
 
    # Input:
    # p, principal amount
